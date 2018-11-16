@@ -39,7 +39,7 @@ let mobizonModuleProxyHandler = {
       queryString.apiKey = target.apiKey;
 
       let request_options = {
-        baseUrl: testBaseUrl || 'https://api.mobizon.com/service/',
+        baseUrl: testBaseUrl || 'https://api.mobizon.ua/service/',
         url: target.apiModule + '/' + apiMethod,
         followRedirect: false,
         json: isJsonQuery,

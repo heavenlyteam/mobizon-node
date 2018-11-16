@@ -1,7 +1,7 @@
 {
   "name": "mobizon",
   "version": "1.0.0",
-  "description": "Library for Mobizon SMS API",
+  "description": "Library for Mobizon SMS API Ukraine",
   "main": "index.js",
   "keywords": [
     "mobizon",
@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/allprime/mobizon-node"
+    "url": "https://github.com/heavenlyteam/mobizon-node"
   },
-  "author": "Nurzhan <nurzhan@allpri.me>",
+  "author": "Vladislav Len <heavenly.beta@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "harmony-reflect": "^1.4.6",
